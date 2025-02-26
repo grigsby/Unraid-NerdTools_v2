@@ -1,11 +1,8 @@
-# Abandoned
-**Thanks to all the users who have followed us during this time.**
+# Experimental
 
-**Once the new limetech business model was definitively presented and not agreeing with it, we have decided to abandon our collaboration in the development of this project.**
+The previous iteration of this Unraid plugin has been abandoned. I'm hoping to get it up and running again.
 
-**Best Regards** 
-
-# unRAID-NerdTools
+# Unraid-NerdTools_v2
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/UnRAIDES)
 [![](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/r/unraides)
 ![Github stars](https://badgen.net/github/stars/UnRAIDES/unRAID-NerdTools?icon=github&label=stars)
