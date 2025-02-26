@@ -10,15 +10,14 @@ The previous iteration of this Unraid plugin has been abandoned. I'm hoping to g
 ![Github last-commit](https://img.shields.io/github/last-commit/UnRAIDES/unRAID-NerdTools)
 ![Github license](https://badgen.net/github/license/UnRAIDES/unRAID-NerdTools)
 
-![](images/logo.png)
+![](images/banner.png)
 
 **Install and Uninstall extra packages easily.**
 
 
-![](images/image01.png)
+![](images/unraid_screenshot.png)
 
 
 ##
 
-NerdTools is the new plugin that allows you to install additional packages in UnRAID easily.
-This project is based on the old NerdPack plugin but has received many improvements and important changes. For example the package installation now takes advantage of the benefits of UnRAID 6.11 and install packages in the path /boot/extra and delegating part of the management to the system itself.
+NerdTools v2 is the most recent version of the popular Unraid plugin that allows you to install additional packages in Unraid easily. This project is based on the early NerdPack plugin, which was then renamed and maintained as NerdTools with many improvements. Since NerdTools has been abandoned, NerdTools v2 is born with support for Unraid 7.x.
