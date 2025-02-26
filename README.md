@@ -12,6 +12,8 @@ The previous iteration of this Unraid plugin has been abandoned. I'm hoping to g
 
 ![](images/banner.png)
 
+
+
 **Install and Uninstall extra packages easily.**
 
 
@@ -20,4 +22,4 @@ The previous iteration of this Unraid plugin has been abandoned. I'm hoping to g
 
 ##
 
-NerdTools v2 is the most recent version of the popular Unraid plugin that allows you to install additional packages in Unraid easily. This project is based on the early NerdPack plugin, which was then renamed and maintained as NerdTools with many improvements. Since NerdTools has been abandoned, NerdTools v2 is born with support for Unraid 7.x.
+NerdTools v2 is the most recent iteration of the popular Unraid plugin that allows you to easily install additional packages in Unraid. This project is based on the early NerdPack plugin, which was then renamed and maintained as NerdTools with many improvements. NerdTools has been abandoned, so NerdTools v2 is born with support for Unraid 7.x.
