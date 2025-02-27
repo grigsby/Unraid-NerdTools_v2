@@ -1,6 +1,6 @@
 # Experimental
 
-The previous iteration of this Unraid plugin has been abandoned. I'm hoping to get it up and running again.
+The previous iteration of this Unraid plugin has been abandoned. I'm hoping to get it up and running again, but it's not working yet.
 
 # Unraid-NerdTools_v2
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/UnRAIDES)
